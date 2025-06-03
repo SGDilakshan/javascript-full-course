@@ -1,0 +1,1 @@
+console.log(alert(`Total cost: $${(599+295)/100}`));
